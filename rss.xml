@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Andrej Zmrzlina]]></title>
-        <description><![CDATA[Andrej Zmrzlina]]></description>
+        <title><![CDATA[Mircosoft]]></title>
+        <description><![CDATA[Mircosoft]]></description>
         <link>https://thegrid.ai/mirco_test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 11:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 11:22:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mirco_test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Start]]></title>
             <description><![CDATA[<article><h1>Start</h1><p>Welcome everybody</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07930e3e597f9ef2f3a5639959fcd5f5739f2d85.jpg"></article>]]></description>
             <link>https://thegrid.ai/mirco_test/start/index.html</link>
             <guid isPermaLink="false">135efc8b-d603-4734-ada8-a67df4c972ac</guid>
-            <pubDate>Tue, 12 Jan 2016 11:19:08 GMT</pubDate>
+            <pubDate>Tue, 12 Jan 2016 11:22:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
