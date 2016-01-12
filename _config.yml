@@ -1,8 +1,7 @@
 name: Mirco_test
 favicon: null
-layout_spectrum: 0.99512
-typography_spectrum: 0.25391
-title: Mircosoft
+layout_spectrum: 0.24015788780525327
+typography_spectrum: 0.36468858597800136
 cta:
   domain: null
   bucket: null
@@ -22,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.75
-  lightness: 0.6875
-  saturation: 0.75
-  rhythmicContrast: 0.75
+  brandStrength: 0.9570420056115836
+  lightness: 0.9337132305372506
+  saturation: 0.7772047293838114
+  rhythmicContrast: 0.8744394846726209
 purpose: []
