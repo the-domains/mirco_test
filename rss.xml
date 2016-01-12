@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Andrej Zmrzlina]]></title>
+        <description><![CDATA[Andrej Zmrzlina]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jan 2016 11:14:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Start]]></title>
+            <description><![CDATA[<article><h1>Start</h1><p>Welcome everybody</p></article>]]></description>
+            <link>undefinedstart/index.html</link>
+            <guid isPermaLink="false">135efc8b-d603-4734-ada8-a67df4c972ac</guid>
+            <pubDate>Tue, 12 Jan 2016 11:14:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
