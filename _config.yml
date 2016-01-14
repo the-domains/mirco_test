@@ -1,7 +1,8 @@
 name: Mirco_test
 favicon: null
-layout_spectrum: 0.24015788780525327
-typography_spectrum: 0.36468858597800136
+layout_spectrum: 0.99512
+typography_spectrum: 0.2545
+title: Mircosoft
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.9570420056115836
-  lightness: 0.9337132305372506
-  saturation: 0.7772047293838114
-  rhythmicContrast: 0.8744394846726209
+    - '#000000'
+    - '#ffffff'
+    - '#f0f217'
+    - '#2e8f92'
+    - '#bebebf'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 1
 purpose: []
